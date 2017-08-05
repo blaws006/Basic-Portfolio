@@ -103,7 +103,7 @@ MAIN CONTENT
 }
 
 
-.mainContentHeader h1 {
+.mainContentHeader h2 {
 	font-size: 1.75em;
 	color: #4aaaa5;
 	padding-bottom: 30px;
@@ -207,6 +207,23 @@ div.transbox p {
   color: #ffffff;
   text-align: center;
    vertical-align: bottom;
+}
+
+form input {
+	width: 590px;
+	line-height: 200%;
+}
+
+form .message {
+	overflow: scroll;
+}
+
+#button {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+	padding
 }
 /**********************
 SIDEBAR
